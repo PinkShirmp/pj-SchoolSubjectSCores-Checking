@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/surface.dir/examples/surface.cpp.o -o ../../bin/surface  /usr/local/lib/libpython3.10.a -lcrypt -ldl -lm 

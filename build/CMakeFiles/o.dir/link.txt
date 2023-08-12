@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/o.dir/src/main.cpp.o -o o   -L/usr/local/bin  -Wl,-rpath,/usr/local/bin -lpython3.10 /usr/lib/x86_64-linux-gnu/libcurl.so /usr/local/lib/libpython3.10.a -lcrypt -ldl -lm 

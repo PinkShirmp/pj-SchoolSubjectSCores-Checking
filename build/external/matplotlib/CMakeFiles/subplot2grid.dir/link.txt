@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/subplot2grid.dir/examples/subplot2grid.cpp.o -o ../../bin/subplot2grid  /usr/local/lib/libpython3.10.a -lcrypt -ldl -lm 

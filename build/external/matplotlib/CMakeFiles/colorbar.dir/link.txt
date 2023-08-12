@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/colorbar.dir/examples/colorbar.cpp.o -o ../../bin/colorbar  /usr/local/lib/libpython3.10.a -lcrypt -ldl -lm 

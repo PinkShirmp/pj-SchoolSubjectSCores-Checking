@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/update.dir/examples/update.cpp.o -o ../../bin/update  /usr/local/lib/libpython3.10.a -lcrypt -ldl -lm 

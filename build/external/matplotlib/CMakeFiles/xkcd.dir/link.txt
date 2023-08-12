@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/xkcd.dir/examples/xkcd.cpp.o -o ../../bin/xkcd  /usr/local/lib/libpython3.10.a -lcrypt -ldl -lm 

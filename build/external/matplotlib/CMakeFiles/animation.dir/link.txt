@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/animation.dir/examples/animation.cpp.o -o ../../bin/animation  /usr/local/lib/libpython3.10.a -lcrypt -ldl -lm 

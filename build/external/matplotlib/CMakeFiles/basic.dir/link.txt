@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/basic.dir/examples/basic.cpp.o -o ../../bin/basic  /usr/local/lib/libpython3.10.a -lcrypt -ldl -lm 

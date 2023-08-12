@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/spy.dir/examples/spy.cpp.o -o ../../bin/spy  /usr/local/lib/libpython3.10.a -lcrypt -ldl -lm 
